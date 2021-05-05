@@ -6,6 +6,6 @@ Built using React and React Native
 
 - Account log in
 - Choose between two lists of exercises (Repetition/Duration)
-- Incerement/Decrement repetition exercises
+- Increment/Decrement repetition exercises
 - Timer for duration exercises
 - To-do list to keep track of goals
